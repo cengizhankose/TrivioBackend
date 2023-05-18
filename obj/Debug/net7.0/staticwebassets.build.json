@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pf/I4NzkOx6BT3oSQU1nWDSAzvAzHLDOkZhSVDa65qI=",
+  "Source": "TriviaBackend",
+  "BasePath": "_content/TriviaBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
